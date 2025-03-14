@@ -15,9 +15,9 @@
 ---
 
 ## 📂 **Project Files**
-🔹 **[Whitepaper](https://justacoderq.github.io/game-day-ad-analytics/Team26_Whitepaper_BayesianBallers.pdf)** – In-depth analysis of Super Bowl ad performance  
-🔹 **[Infographic](https://justacoderq.github.io/game-day-ad-analytics/Infographic.pdf)** – Key findings in a visual format  
-🔹 **[Presentation](https://justacoderq.github.io/game-day-ad-analytics/Team26_BayesianBallers_Presentation.pptx)** – Summary of insights  
+🔹 **[Whitepaper](https://github.com/justacoderq/game-day-ad-analytics/blob/main/Team26_Whitepaper_BayesianBallers.pdf?raw=true)** – In-depth analysis of Super Bowl ad performance  
+🔹 **[Infographic](https://github.com/justacoderq/game-day-ad-analytics/blob/main/Infographic.pdf?raw=true)** – Key findings in a visual format  
+🔹 **[Presentation](https://github.com/justacoderq/game-day-ad-analytics/blob/main/Team26_BayesianBallers_Presentation.pptx?raw=true)** – Summary of insights  
 
 
 ---
