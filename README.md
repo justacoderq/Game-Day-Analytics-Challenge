@@ -5,7 +5,7 @@
 
 ### **Team 26 - Bayesian Ballers**
 👥 **Team Members:**  
-- **Prachi Aswani** – Data Analysis & Engagement Trends  
+- **Prachi Aswani** – Data Analysis & Whitepaper  
 - **Jack Doughty** – Sentiment Analysis & Visualization  
 - **Tobias Lux** – Sentiment Analysis & Infographic Design  
 - **Nicolaus Bayard** – Financial Analysis & ROI Evaluation  
@@ -15,9 +15,9 @@
 ---
 
 ## 📂 **Project Files**
-🔹 **[Whitepaper](https://yourusername.github.io/game-day-ad-analytics/whitepaper.pdf)** – In-depth analysis of Super Bowl ad performance  
-🔹 **[Infographic](https://yourusername.github.io/game-day-ad-analytics/infographic.png)** – Key findings in a visual format  
-🔹 **[Presentation](https://yourusername.github.io/game-day-ad-analytics/presentation.pdf)** – Summary of insights  
+🔹 **[Whitepaper](https://justacoderq.github.io/game-day-ad-analytics/Team 26 - Undergrad - Whitepaper - BayesianBallers.pdf)** – In-depth analysis of Super Bowl ad performance  
+🔹 **[Infographic](https://justacoderq.github.io/game-day-ad-analytics/Infographic.pdf)** – Key findings in a visual format  
+🔹 **[Presentation](https://justacoderq.github.io/game-day-ad-analytics/Team 26 Bayesian Ballers Presentation.pptx)** – Summary of insights  
 
 ---
 
