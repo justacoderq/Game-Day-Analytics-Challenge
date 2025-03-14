@@ -52,7 +52,7 @@ By leveraging data science techniques, we evaluated:
 ---
 
 ## 🚀 **Live Project**
-🔗 **[View the Project](https://yourusername.github.io/game-day-ad-analytics/)**  
+🔗 **[View the Project](https://justacoderq.github.io/game-day-ad-analytics/)**  
 
 ---
 
